@@ -5,7 +5,8 @@ Software_Engineering projekt
   von Mediani Wijdane
 
 Teilfunktionalitäten
-  1- Motoransteuerung \n
+
+  1- Motoransteuerung 
   
   2- Rücklaufsteuerung
   
