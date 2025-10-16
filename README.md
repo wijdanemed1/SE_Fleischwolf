@@ -1,1 +1,10 @@
-# SE_Fleischwolf
+Fleischwolf
+
+Software_Engineering projekt 
+
+von Mediani Wijdane
+
+Teilfunktionalitäten
+
+
+
