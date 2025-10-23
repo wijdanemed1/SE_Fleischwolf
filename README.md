@@ -1,10 +1,10 @@
-Fleischwolf_Hexelsteuerung
+# Fleischwolf_Hexelsteuerung
 
-Software_Engineering projekt 
+### Software_Engineering projekt 
 
-  von Mediani Wijdane
+#### von Mediani Wijdane
 
-Teilfunktionalitäten
+**Teilfunktionalitäten** 
 
   1- Motoransteuerung 
   
