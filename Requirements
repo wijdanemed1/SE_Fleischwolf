@@ -20,30 +20,29 @@ Sicherheitsanforderungen für Benutzer und Maschine müssen eingehalten werden.
 3- Automatische Abschaltung bei Überhitzung oder Blockierung.
 
 **Sensorüberwachung:**
+4- Temperatur des Motors
 
-+ Temperatur des Motors
+5- Überlastsensor (z. B. wenn Fleisch blockiert)
 
-+ Überlastsensor (z. B. wenn Fleisch blockiert)
-
-+ Deckel-/Sicherheitsverriegelung
+6- Deckel-/Sicherheitsverriegelung
 
 **Statusanzeige über LEDs oder Display:**
 
-+ Betriebsstatus
+7- Betriebsstatus
 
-+ Fehlermeldungen
+8- Fehlermeldungen
 
-**Reinigungsmodus:** Reduzierte Geschwindigkeit zur sicheren Reinigung.
+9- **Reinigungsmodus:** Reduzierte Geschwindigkeit zur sicheren Reinigung.
 
 ### Nicht-funktionale Anforderungen
 
-**Sicherheit:** Muss den EU-Sicherheitsstandards für Lebensmittelmaschinen entsprechen.
+10- **Sicherheit:** Muss den EU-Sicherheitsstandards für Lebensmittelmaschinen entsprechen.
 
-**Zuverlässigkeit:** Dauerbetrieb über X Stunden ohne Fehlfunktion.
+11- **Zuverlässigkeit:** Dauerbetrieb über X Stunden ohne Fehlfunktion.
 
-**Bedienbarkeit:** Intuitive Benutzerschnittstelle.
+12- **Bedienbarkeit:** Intuitive Benutzerschnittstelle.
 
-**Wartbarkeit:** Software muss leicht aktualisierbar sein.
+13- **Wartbarkeit:** Software muss leicht aktualisierbar sein.
 
-**Reaktionszeit:** Steuerbefehle müssen in unter 1 Sekunde umgesetzt werden.
+14- **Reaktionszeit:** Steuerbefehle müssen in unter 1 Sekunde umgesetzt werden.
 
