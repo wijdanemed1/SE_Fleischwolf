@@ -1,1 +1,49 @@
+# Stakeholder Analyse
+
+## Lastenheft:
+
+### **Zielbestimmung**
+
+Das System soll die Hexelsteuerung eines Fleischwolfs automatisieren.
+
+Es soll eine sichere und gleichmäßige Verarbeitung des Fleisches gewährleisten.
+
+Die Bedienung soll einfach und übersichtlich sein.
+
+Sicherheitsanforderungen für Benutzer und Maschine müssen eingehalten werden.
+
+### **Funktionale Anforderungen**
+1- **Start/Stopp-Steuerung:** Der Fleischwolf kann über ein Bedienfeld gestartet und gestoppt werden.
+
+2- **Geschwindigkeitsregelung:** Der Benutzer kann verschiedene Drehgeschwindigkeiten wählen.
+
+3- Automatische Abschaltung bei Überhitzung oder Blockierung.
+
+**Sensorüberwachung:**
+
++ Temperatur des Motors
+
++ Überlastsensor (z. B. wenn Fleisch blockiert)
+
++ Deckel-/Sicherheitsverriegelung
+
+**Statusanzeige über LEDs oder Display:**
+
++ Betriebsstatus
+
++ Fehlermeldungen
+
+**Reinigungsmodus:** Reduzierte Geschwindigkeit zur sicheren Reinigung.
+
+### Nicht-funktionale Anforderungen
+
+**Sicherheit:** Muss den EU-Sicherheitsstandards für Lebensmittelmaschinen entsprechen.
+
+**Zuverlässigkeit:** Dauerbetrieb über X Stunden ohne Fehlfunktion.
+
+**Bedienbarkeit:** Intuitive Benutzerschnittstelle.
+
+**Wartbarkeit:** Software muss leicht aktualisierbar sein.
+
+**Reaktionszeit:** Steuerbefehle müssen in unter 1 Sekunde umgesetzt werden.
 
